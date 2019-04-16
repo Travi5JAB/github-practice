@@ -10,6 +10,7 @@ if(num  === 0){
 }else if (num % 2=== 0){
     console.log("Even");
 }
+}
 oddOrEven(4)
 oddOrEven(11)
 oddOrEven(75)
